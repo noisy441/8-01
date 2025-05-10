@@ -43,7 +43,7 @@
 
 Ссыллка на первый коммит 
 
-https://github.com/netology-code/sdvps_homeworks_8-01_git_04.2025/tree/8654c3b72366ae63b9224a6e3b7ee995c6bcbdc6
+https://github.com/netology-code/sdvps_homeworks_8-01_git_04.2025/commit/8654c3b72366ae63b9224a6e3b7ee995c6bcbdc6
 
 ![Скриншот 1](https://github.com/noisy441/8-01/blob/main/img/img1.png)`
 
@@ -71,7 +71,7 @@ https://github.com/netology-code/sdvps_homeworks_8-01_git_04.2025/tree/8654c3b72
 
 Ссыллка на второй коммит
 
-https://github.com/noisy441/8-01/commit/f1460bb1f7e9e8d9657f54a988ba3e02b97c8820
+https://github.com/netology-code/sdvps_homeworks_8-01_git_04.2025/commit/f1460bb1f7e9e8d9657f54a988ba3e02b97c8820
 
 
 ![Скриншот 5](https://github.com/noisy441/8-01/blob/main/img/img5.png)`
