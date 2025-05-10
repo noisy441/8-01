@@ -1,8 +1,7 @@
 #!/bin/bash
 
-# Указываем домен Яндекса
 DOMAIN="netology.ru"
-# Количество попыток пинга
+
 COUNT=1
 
 if ping -c $COUNT $DOMAIN > /dev/null 2>&1; then
