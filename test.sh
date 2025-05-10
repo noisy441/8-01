@@ -2,7 +2,7 @@
 
 # Указываем домен Яндекса
 DOMAIN="ya.ru"
-# Количество попыток пинга
+
 COUNT=1
 
 if ping -c $COUNT $DOMAIN > /dev/null 2>&1; then
