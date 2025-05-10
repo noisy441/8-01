@@ -41,7 +41,18 @@
 ---
 ### Решение 1
 
-![Скриншот 1](https://github.com/netology-code/sdvps-homeworks/assets/77622076/e73589cf-7e97-40e5-ac01-d1d55376f1b9)
+Ссыллка на первый коммит 
+
+https://github.com/netology-code/sdvps_homeworks_8-01_git_04.2025/tree/8654c3b72366ae63b9224a6e3b7ee995c6bcbdc6
+
+![Скриншот 1](https://github.com/noisy441/8-01/blob/main/img/img1.png)`
+
+![Скриншот 2](https://github.com/noisy441/8-01/blob/main/img/img2.png)`
+
+![Скриншот 3](https://github.com/noisy441/8-01/blob/main/img/img3.png)`
+
+![Скриншот 4](https://github.com/noisy441/8-01/blob/main/img/img4.png)`
+
 ---
 
 ### Задание 2
@@ -54,6 +65,19 @@
 1. Сделайте коммит и пуш.
 
 В качестве ответа добавьте ссылку на этот коммит в ваш md-файл с решением.
+
+---
+### Решение 2
+
+Ссыллка на второй коммит
+
+https://github.com/noisy441/8-01/commit/f1460bb1f7e9e8d9657f54a988ba3e02b97c8820
+
+
+![Скриншот 5](https://github.com/noisy441/8-01/blob/main/img/img5.png)`
+
+![Скриншот 6](https://github.com/noisy441/8-01/blob/main/img/img6.png)`
+
 
 ---
 
