@@ -1,6 +1,5 @@
 #!/bin/bash
 
-# Указываем домен Яндекса
 DOMAIN="ya.ru"
 
 COUNT=1
