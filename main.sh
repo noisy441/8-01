@@ -1,6 +1,6 @@
 #!/bin/bash
 
-DOMAIN="netology.ru"
+DOMAIN="www.netology.ru"
 
 COUNT=1
 
